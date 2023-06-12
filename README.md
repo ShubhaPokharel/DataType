@@ -20,7 +20,7 @@ There are 8 datatypes and they are put into 4 catagories.
 - double
 
 
-### Character Data types
+### Character Data types 
 
 - char
 
